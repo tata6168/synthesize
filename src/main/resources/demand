@@ -1,0 +1,7 @@
+1.boot+mybatis+shiro+acticiti+reids+elasticsearch+mysql
+
+2.activiti:要求不能有框架生成流程图片，创建repository时直接拿到流程图进行存储
+
+3.获取controller上的路径自动生成权限表
+
+4.
